@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Refit" Version="8.0.0" />
+  </ItemGroup>
+</Project>
