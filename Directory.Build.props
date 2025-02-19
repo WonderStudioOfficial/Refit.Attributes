@@ -5,7 +5,6 @@
 		<TargetFramework>net9.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<Platforms>x64</Platforms>
 		<BaseOutputPath>$(SolutionDir)bin\$(MSBuildProjectName)</BaseOutputPath>
 		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 	</PropertyGroup>
